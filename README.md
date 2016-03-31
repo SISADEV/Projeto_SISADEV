@@ -7,10 +7,10 @@ Ailton Torres Câmara
 
 <h4>Co-Orientadores:</h4>
 Victor Diego do Nascimento Silva <br>
-Yuri Henrique Sales da Costa (<a href="github.com/YuriStyl3">@YuriStyl3</a>) <br>
+Yuri Henrique Sales da Costa (<a href="https://github.com/YuriStyl3">@YuriStyl3</a>) <br>
 
 <h4>Membros:</h4>
 Dayrone Lima da Silva <br>
-Kalyane de Oliveira Bezerra (<a href="github.com/kalyane">@kalyane</a>) <br>
-Rodrigo Machado do Santos (<a href="github.com/RodMdS">@RodMdS</a>) 
+Kalyane de Oliveira Bezerra (<a href="https://github.com/kalyane">@kalyane</a>) <br>
+Rodrigo Machado do Santos (<a href="https://github.com/RodMdS">@RodMdS</a>) 
 
