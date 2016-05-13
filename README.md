@@ -6,11 +6,11 @@
 Ailton Torres Câmara
 
 <h4>Co-Orientadores:</h4>
-Victor Diego do Nascimento Silva(<a href="https://github.com/victordiego">@kalyane</a> <br>
+Victor Diego do Nascimento Silva(<a href="https://github.com/victordiego">@victordiego</a>) <br>
 Yuri Henrique Sales da Costa (<a href="https://github.com/yuriscosta">@yuriscosta</a>) <br>
 
 <h4>Membros:</h4>
-Dayrone Lima da Silva (<a href="https://github.com/dayrone">@kalyane</a> <br>
+Dayrone Lima da Silva (<a href="https://github.com/dayrone">@dayrone</a>) <br>
 Kalyane de Oliveira Bezerra (<a href="https://github.com/kalyane">@kalyane</a>) <br>
 Rodrigo Machado do Santos (<a href="https://github.com/RodMdS">@RodMdS</a>) 
 
