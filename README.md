@@ -6,7 +6,7 @@
 Ailton Torres Câmara
 
 <h4>Co-Orientadores:</h4>
-Victor Diego do Nascimento Silva(<a href="https://github.com/victordiego">@victordiego</a>) <br>
+Victor Diego do Nascimento Silva (<a href="https://github.com/victordiego">@victordiego</a>) <br>
 Yuri Henrique Sales da Costa (<a href="https://github.com/yuriscosta">@yuriscosta</a>) <br>
 
 <h4>Membros:</h4>
